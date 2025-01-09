@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 import sys
 
+# Creado por Andres Ruiz
+
 # Mapper para calcular la media gastada por persona y tienda
 for linea in sys.stdin:
     # Elimina espacios y separa los campos
